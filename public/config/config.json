@@ -3,7 +3,7 @@
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6a9e43fb43113b272fcd4ca1882df663ea818959",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "SYMBOL": "ETH",
     "ID": 137
   },
   "NFT_NAME": "Ugly Birdz",
