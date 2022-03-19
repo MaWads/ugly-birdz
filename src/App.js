@@ -298,6 +298,8 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
+                  Thats less than 0.1 ETH!
+                    
                   Excluding gas fees.
                 </s.TextDescription>
                 <s.SpacerSmall />
