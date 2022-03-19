@@ -10,9 +10,9 @@
   "SYMBOL": "UBNFT",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 188000000000000000000,
-  "DISPLAY_COST": 188,
+  "DISPLAY_COST": 160,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ugly-birdz",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ugly-birdz",
   "SHOW_BACKGROUND": true
 }
