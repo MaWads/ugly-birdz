@@ -300,7 +300,7 @@ function App() {
                 >
                   Thats less than 0.1 ETH!
                     
-                  Excluding gas fees.
+                  \\nExcluding gas fees.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
