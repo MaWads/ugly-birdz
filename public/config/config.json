@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6A9E43Fb43113B272fcd4Ca1882df663eA818959",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6a9e43fb43113b272fcd4ca1882df663ea818959",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Ugly Birdz",
+  "SYMBOL": "UBNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 188,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ugly-birdz",
+  "SHOW_BACKGROUND": true
+}
