@@ -298,9 +298,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Thats less than 0.1 ETH!
-                    
-                  \\nExcluding gas fees.
+                  Thats less than 0.1 ETH!\\n\\Excluding gas fees.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
