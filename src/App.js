@@ -249,13 +249,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://t.me/+uGiyndMd3DhmZWYx", "_blank");
+                  window.open("https://uglybirdz.xyz", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Telegram
+                Website
               </StyledButton>
               <StyledButton
                 style={{
